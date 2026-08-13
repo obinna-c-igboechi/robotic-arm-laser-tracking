@@ -19,7 +19,7 @@ Built as a university project in Computer Engineering at Uskudar University, Ist
 ![Target on the wall](media/03-target-on-wall.jpg)
 *The target, marked with black tape*
 
-![Laser reaching the target](media/04-laser-on-target.jpg)
+![Laser reaching the target](media/04-laser-on-target.png)
 *The arm moving the laser toward the target point*
 
 ---
