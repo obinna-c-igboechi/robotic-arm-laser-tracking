@@ -8,7 +8,11 @@ Built as a university project in Computer Engineering at Uskudar University, Ist
 
 ## Demo
 
-**[Watch the demo video](media/robotic-arm-demo.mp4)**
+
+
+https://github.com/user-attachments/assets/5f3839ed-1b57-4bb2-b3dd-22ba302c6fd9
+
+
 
 <p align="center">
   <img src="media/01-hardware-setup.jpg" width="360" alt="Hardware setup"><br>
