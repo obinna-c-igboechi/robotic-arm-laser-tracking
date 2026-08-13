@@ -10,17 +10,25 @@ Built as a university project in Computer Engineering at Uskudar University, Ist
 
 **[Watch the demo video](media/robotic-arm-demo.mp4)**
 
-![Hardware setup](media/01-hardware-setup.jpg)
-*Arduino and breadboard wired to the laptop over USB*
+<p align="center">
+  <img src="media/01-hardware-setup.jpg" width="360" alt="Hardware setup"><br>
+  <em>Arduino and breadboard wired to the laptop over USB</em>
+</p>
 
-![Detection view](media/02-detection-view.jpg)
-*The desktop application processing the camera feed*
+<p align="center">
+  <img src="media/02-detection-view.jpg" width="360" alt="Detection view"><br>
+  <em>The desktop application processing the camera feed</em>
+</p>
 
-![Target on the wall](media/03-target-on-wall.jpg)
-*The target, marked with black tape*
+<p align="center">
+  <img src="media/03-target-on-wall.jpg" width="360" alt="Target on the wall"><br>
+  <em>The target, marked with black tape</em>
+</p>
 
-![Laser reaching the target](media/04-laser-on-target.png)
-*The arm moving the laser toward the target point*
+<p align="center">
+  <img src="media/04-laser-on-target.png" width="360" alt="Laser reaching the target"><br>
+  <em>The arm moving the laser onto the target point</em>
+</p>
 
 ---
 
